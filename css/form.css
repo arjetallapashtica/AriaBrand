@@ -10,7 +10,7 @@ body{
     font-family: sans-serif;
 }
 .HOME-photo-A-LL{
-	background-image: url(file:///C:/Users/Lenovo%20P51/Desktop/Aria-s-Closet/images/clothes3.jpg);
+	background-image: url(clothes3.jpg);
 	height: 93vh;
 	background-repeat: no-repeat;
 	width: 100%;
@@ -467,7 +467,7 @@ nav .nav-menu > li .dropdown-menu .right-section .dropdown-links li a:hover p {
     justify-content: center;
     align-items: center;
     flex-direction: column; 
-    background: url(file:///C:/Users/Lenovo%20P51/Desktop/Aria-s-Closet/images/contact1.jpg);
+    background: url(contact1.jpg);
     background-size: cover;
 }
 .contact-A-LL .content-A-LL{
