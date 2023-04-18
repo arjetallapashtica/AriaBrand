@@ -467,7 +467,7 @@ nav .nav-menu > li .dropdown-menu .right-section .dropdown-links li a:hover p {
     justify-content: center;
     align-items: center;
     flex-direction: column; 
-    background: url(contact1.jpg);
+    background: url('https://raw.githubusercontent.com/arjetallapashtica/ariabrand/main/contact1.jpg');
     background-size: cover;
 }
 .contact-A-LL .content-A-LL{
